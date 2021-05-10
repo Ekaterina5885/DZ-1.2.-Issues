@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Ekaterina5885/DZ-1.2./issues/1
-* https://github.com/Ekaterina5885/DZ-1.2./issues/2
-* https://github.com/Ekaterina5885/DZ-1.2./issues/3
+* [Валидные ключи, при проверки в приложении "KeyValidator", выводит результат "FAIL".](https://github.com/Ekaterina5885/DZ-1.2./issues/1)
+* [Невалидный ключ, при проверки в приложении "KeyValidator", выводит результат "OK".](https://github.com/Ekaterina5885/DZ-1.2./issues/3)
+
 
 ## Описание процесса тестирования
 
